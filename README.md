@@ -4,7 +4,6 @@ Welcome to my GitHub profile! This is my digital playground where I build, break
 
 ### 🤝 Let's Collaborate
 - 💬 Open to collabs on anything **AI, open source, automation, or full-stack**.
-- 📫 Reach me at: **poppystick123@gmail.com**
 
 # 💫 About Me:
 👯 I’m looking to collaborate on projects involving AI, automation, and full-stack development  <br>🤝 I’m looking for help with turning creative tech ideas into real-world tools  <br>🌱 I’m currently learning machine learning, app development, and system design  <br>💬 Ask me about Python, React Native, or cool side projects  <br>⚡ Fun fact: I believe the best bugs are the ones that lead to better ideas.<br>
