@@ -9,27 +9,37 @@ on clean logic, maintainability, and real-world usability.
 
 ## What I Work On
 - Backend and full-stack web applications
+- Evaluation platforms and structured workflows
 - REST APIs and authentication systems
 - Real-world projects and business websites
-- Learning by building and shipping usable products
 
 ---
 
 ## Featured Projects
 
-**IntelEval – AI/ML Evaluation Platform**  
-Live demo: https://intel-eval-hub.vercel.app/  
-An evaluation platform for AI/ML concepts with structured problems, community
-discussion, and performance-based leaderboards.
+**IntelEval – Explanation-Based Evaluation Platform**  
+Live demo: https://intel-eval-hub.vercel.app/
+
+An evaluation platform that goes beyond final answers by incorporating
+**explanations and reasoning** into the assessment process.  
+Designed to encourage clarity of thought, fair evaluation, and meaningful
+comparison of user understanding rather than just correctness.
+
+Key focus areas:
+- Explanation-driven evaluation
+- Structured problem attempts
+- Fair scoring and ranking logic
+- Community discussion around problem-solving approaches
 
 **Price Furniture – Business Website (Private Repository)**  
-Live site: https://www.pricefurnituremall.com/  
+Live site: https://www.pricefurnituremall.com/
+
 Designed and developed a responsive website for a real furniture business,
-focusing on clear product presentation and customer reach.
+with clear product presentation, mobile-friendly layouts, and strong contact visibility.
 
 **Healthy Meal Planner**  
 An application that generates meal plans based on dietary preferences,
-calorie awareness, and vegetarian options.
+calorie awareness, and vegetarian options, focusing on everyday usability.
 
 ---
 
@@ -43,9 +53,9 @@ calorie awareness, and vegetarian options.
 ---
 
 ## Currently Learning
-- Writing cleaner and more scalable backend systems
-- Improving API design and data handling
-- Building production-ready applications
+- Designing clearer evaluation and scoring systems
+- Writing scalable backend logic
+- Improving API structure and data handling
 
 ---
 
