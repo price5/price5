@@ -1,9 +1,54 @@
-# 💫 About Me:
-Hi, I’m Varun Rao 👋  <br>Computer Science undergraduate focused on backend and full-stack development.<br><br>I build practical applications, APIs, and business-ready software,<br>with an emphasis on clean logic and real-world usability.
+## Hi, I’m Varun Rao 👋
 
+Computer Science undergraduate focused on backend and full-stack development.
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varunvraoo@gmail.com) 
+I build practical applications, APIs, and business-ready software with an emphasis
+on clean logic, maintainability, and real-world usability.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+---
+
+## What I Work On
+- Backend and full-stack web applications
+- REST APIs and authentication systems
+- Real-world projects and business websites
+- Learning by building and shipping usable products
+
+---
+
+## Featured Projects
+
+**IntelEval – AI/ML Evaluation Platform**  
+Live demo: https://intel-eval-hub.vercel.app/  
+An evaluation platform for AI/ML concepts with structured problems, community
+discussion, and performance-based leaderboards.
+
+**Price Furniture – Business Website (Private Repository)**  
+Live site: https://www.pricefurnituremall.com/  
+Designed and developed a responsive website for a real furniture business,
+focusing on clear product presentation and customer reach.
+
+**Healthy Meal Planner**  
+An application that generates meal plans based on dietary preferences,
+calorie awareness, and vegetarian options.
+
+---
+
+## Tech Stack
+- **Languages:** Java, JavaScript, Python, TypeScript  
+- **Backend:** Node.js, Express, Flask  
+- **Frontend:** React, HTML, CSS  
+- **Databases:** PostgreSQL, MySQL  
+- **Tools:** Git, Supabase, Docker, Vercel
+
+---
+
+## Currently Learning
+- Writing cleaner and more scalable backend systems
+- Improving API design and data handling
+- Building production-ready applications
+
+---
+
+## Contact
+- Email: varunvraoo@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/varunrao01/
